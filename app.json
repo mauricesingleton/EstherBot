@@ -4,7 +4,7 @@
   "keywords": ["esther", "bot", "express"],
   "website": "https://mobot.info",
   "repository": "https://github.com/mauricesingleton/MoBot",
-  "logo": "https://github.com/mauricesingleton/mobot.png",
+  "logo": "https://github.com/mauricesingleton/MoBot/mobot.gif",
   "env": {
     "SMOOCH_APP_TOKEN": {
       "description": "Your Smooch app token which is used to initialize the web widget.",

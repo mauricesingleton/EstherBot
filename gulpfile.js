@@ -6,7 +6,7 @@ gulp.task('heroku', function() {
         script: 'heroku',
         ext: 'js html',
         env: {
-            'NODE_ENV': 'development'
+            'NODE_ENV': 'production'
         }
     });
 });
